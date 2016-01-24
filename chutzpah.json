@@ -1,0 +1,10 @@
+﻿{
+    "RootReferencePathMode": "SettingsFileDirectory",
+    "Tests": [
+        {
+            "Path": "src",
+            "Includes": [ "*.tests.js" ],
+            "ExpandReferenceComments": true
+        }
+    ]
+}
